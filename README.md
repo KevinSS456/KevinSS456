@@ -17,4 +17,5 @@
   <img align="center" alt="Kevin-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Kevin-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Kevin-jup" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="Kevin-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Vue/Vue-original.svg">
 </div>
