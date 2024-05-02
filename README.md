@@ -3,7 +3,7 @@
 
 - 🌱 Estudando Python
 - 👔 Conhecimento Back-End
-- 🥼 Cursando Desenvolvimento de Software
+- 🥼 Concluido Desenvolvimento de Sistemas - Cursando Analise e Desenvolvimento de Sistemas
 - 📩 Email - kesantiago456@gmail.com
 
 #### Algumas Linguagens que Domino🧐:<h4>
